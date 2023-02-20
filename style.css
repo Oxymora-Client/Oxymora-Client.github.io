@@ -3,6 +3,9 @@ body {
  background-color: black;
  font-family: Courier New;
 }
+p {
+ text-align: justify;
+}
 h1 {
  border: solid 3px;
  border-radius: 20px;
