@@ -19,5 +19,8 @@ button {
  background-color: black;
 }
 ol {
- margin-left: 40px
+ margin-left: 40px;
+}
+summary {
+ font-style: bold;
 }
