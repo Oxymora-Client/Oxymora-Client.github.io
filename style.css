@@ -21,4 +21,9 @@ button {
 ol {
  margin-left: 40px;
 }
+div {
+ border: solid 3px;
+ border-radius: 20px;
+}
+
 
