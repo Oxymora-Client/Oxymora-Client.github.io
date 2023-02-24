@@ -21,9 +21,11 @@ button {
 ol {
  margin-left: 40px;
 }
-div {
+img {
  border: solid 3px;
  border-radius: 20px;
+ height: 150;
+ width: 200;
 }
 
 
